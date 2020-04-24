@@ -1,0 +1,1 @@
+This module holds codes and reports for power production forecasts. The name of the repository is inspired by Eugene Parker, an astrophysicist who created theoretical models for solar wind. The NASA solar probe Parker is also named after him.
